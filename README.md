@@ -1,6 +1,7 @@
-#  AI/ML Internship — Mountreach Solutions
+#  AI/ML Internship — Mountreach Solutions Pvt. Ltd.
 
-Welcome to my central repository for the **AI/ML Internship** at **Mountreach Solutions**. This repository contains all my coursework, weekly assignments, hands-on tasks, and practical implementations covering Python basics, data manipulation libraries, and machine learning models.
+Welcome to my central repository for the **AI/ML Internship** at **Mountreach Solutions Pvt. Ltd.
+**. This repository contains all my coursework, weekly assignments, hands-on tasks, and practical implementations covering Python basics, data manipulation libraries, and machine learning models.
 
 ---
 
