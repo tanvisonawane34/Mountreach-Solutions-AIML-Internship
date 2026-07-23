@@ -1,6 +1,15 @@
-# 🚀 AI/ML Internship — Mountreach Solutions
+#  AI/ML Internship — Mountreach Solutions
 
 Welcome to my central repository for the **AI/ML Internship** at **Mountreach Solutions**. This repository contains all my coursework, weekly assignments, hands-on tasks, and practical implementations covering Python basics, data manipulation libraries, and machine learning models.
+
+---
+
+## 🏢 Internship Details
+
+- **Organization:** Mountreach Solutions Pvt. Ltd.
+- **Program:** MSBTE Instructed Internship Training
+- **Duration:** 12 Weeks
+- **Domain:** Artificial Intelligence and Machine Learning (AI/ML)
 
 ---
 
@@ -14,7 +23,7 @@ The repository is organized into distinct modules based on the learning curricul
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 - **Programming Language:** Python 🐍
 - **Libraries & Frameworks:** 
@@ -22,7 +31,7 @@ The repository is organized into distinct modules based on the learning curricul
   - Data Visualization: Matplotlib, Seaborn
   - Machine Learning: Scikit-Learn
 - **Version Control:** Git & GitHub
-- **Development Environment:** VS Code / Jupyter Notebooks
+- **Development Environment:** VS Code / Jupyter Notebooks / Google Colab
 
 ---
 
@@ -39,5 +48,5 @@ The repository is organized into distinct modules based on the learning curricul
 ## 👩‍💻 Author
 
 - **Tanvi Sonawane**
-- AI/ML Intern at Mountreach Solutions
+- AIML Student | Diploma (MSBTE)
 - GitHub: [@tanvisonawane34](https://github.com/tanvisonawane34)
