@@ -1,7 +1,6 @@
-#  AI/ML Internship — Mountreach Solutions Pvt. Ltd.
+#  AI/ML Internship - Mountreach Solutions Pvt. Ltd.
 
-Welcome to my central repository for the **AI/ML Internship** at **Mountreach Solutions Pvt. Ltd.
-**. This repository contains all my coursework, weekly assignments, hands-on tasks, and practical implementations covering Python basics, data manipulation libraries, and machine learning models.
+Welcome to my central repository for the **AI/ML Internship** at **Mountreach Solutions Pvt. Ltd.**. This repository contains all my coursework, weekly assignments, hands-on tasks, and practical implementations covering Python basics, data manipulation libraries, and machine learning models.
 
 ---
 
@@ -18,9 +17,9 @@ Welcome to my central repository for the **AI/ML Internship** at **Mountreach So
 
 The repository is organized into distinct modules based on the learning curriculum:
 
-- **Python_Basics/** — Fundamental Python concepts, syntax, control flow, and logic
-- **Python_Libraries/** — Data analysis & visualization (NumPy, Pandas, Matplotlib, Seaborn)
-- **Machine_Learning/** — Data preprocessing, ML algorithms, model building, & evaluation
+- **Python_Basics/** - Fundamental Python concepts, syntax, control flow, and logic
+- **Python_Libraries/** - Data analysis & visualization (NumPy, Pandas, Matplotlib, Seaborn)
+- **Machine_Learning/** - Data preprocessing, ML algorithms, model building, & evaluation
 
 ---
 
